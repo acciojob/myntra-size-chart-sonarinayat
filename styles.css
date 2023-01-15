@@ -2,4 +2,5 @@
 /* Your CSS Code here. */
 table,th,td{
 	border:solid black;
+	border-collapse:collapse;
 }
