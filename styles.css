@@ -1,6 +1,7 @@
 
 /* Your CSS Code here. */
 table,th,td{
-	border:solid black;
+	border: solid black;
 	border-collapse:collapse;
+	width:200px;
 }
